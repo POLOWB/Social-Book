@@ -1,1 +1,1 @@
-This is a simple frontend social website like facebook,with just a home-page and profile-page linked together.
+This is a frontend social website like facebook,pages are linked together and the site is fully responsive
